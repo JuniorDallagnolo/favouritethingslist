@@ -1,15 +1,15 @@
 {
   "main.css": "/favouritethingslist/static/css/main.5b6d0a75.chunk.css",
-  "main.js": "/favouritethingslist/static/js/main.78f61cf6.chunk.js",
-  "main.js.map": "/favouritethingslist/static/js/main.78f61cf6.chunk.js.map",
+  "main.js": "/favouritethingslist/static/js/main.f2e919f1.chunk.js",
+  "main.js.map": "/favouritethingslist/static/js/main.f2e919f1.chunk.js.map",
   "static/css/1.1d699220.chunk.css": "/favouritethingslist/static/css/1.1d699220.chunk.css",
-  "static/js/1.7a1bf5e2.chunk.js": "/favouritethingslist/static/js/1.7a1bf5e2.chunk.js",
-  "static/js/1.7a1bf5e2.chunk.js.map": "/favouritethingslist/static/js/1.7a1bf5e2.chunk.js.map",
+  "static/js/1.55fb9da2.chunk.js": "/favouritethingslist/static/js/1.55fb9da2.chunk.js",
+  "static/js/1.55fb9da2.chunk.js.map": "/favouritethingslist/static/js/1.55fb9da2.chunk.js.map",
   "runtime~main.js": "/favouritethingslist/static/js/runtime~main.60bcdd22.js",
   "runtime~main.js.map": "/favouritethingslist/static/js/runtime~main.60bcdd22.js.map",
-  "static/css/1.1d699220.chunk.css.map": "/favouritethingslist/static/css/1.1d699220.chunk.css.map",
   "static/css/main.5b6d0a75.chunk.css.map": "/favouritethingslist/static/css/main.5b6d0a75.chunk.css.map",
+  "static/css/1.1d699220.chunk.css.map": "/favouritethingslist/static/css/1.1d699220.chunk.css.map",
   "index.html": "/favouritethingslist/index.html",
-  "precache-manifest.bf2c88fd21bf43e447b2f7ce63f21813.js": "/favouritethingslist/precache-manifest.bf2c88fd21bf43e447b2f7ce63f21813.js",
+  "precache-manifest.98151a116a63ab97d20e7b7eb018f579.js": "/favouritethingslist/precache-manifest.98151a116a63ab97d20e7b7eb018f579.js",
   "service-worker.js": "/favouritethingslist/service-worker.js"
 }

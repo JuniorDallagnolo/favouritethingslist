@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/favouritethingslist/static/js/runtime~main.60bcdd22.js"
   },
   {
-    "revision": "78f61cf6f2ccbbec6d62",
-    "url": "/favouritethingslist/static/js/main.78f61cf6.chunk.js"
+    "revision": "f2e919f1e76ed3b44c23",
+    "url": "/favouritethingslist/static/js/main.f2e919f1.chunk.js"
   },
   {
-    "revision": "7a1bf5e2c526362cf674",
-    "url": "/favouritethingslist/static/js/1.7a1bf5e2.chunk.js"
+    "revision": "55fb9da26a6856d2a531",
+    "url": "/favouritethingslist/static/js/1.55fb9da2.chunk.js"
   },
   {
-    "revision": "78f61cf6f2ccbbec6d62",
+    "revision": "f2e919f1e76ed3b44c23",
     "url": "/favouritethingslist/static/css/main.5b6d0a75.chunk.css"
   },
   {
-    "revision": "7a1bf5e2c526362cf674",
+    "revision": "55fb9da26a6856d2a531",
     "url": "/favouritethingslist/static/css/1.1d699220.chunk.css"
   },
   {
-    "revision": "bec575110384eee76b68708979a07978",
+    "revision": "19a2d65d74da05b9486a94f0c13614b7",
     "url": "/favouritethingslist/index.html"
   }
 ];
