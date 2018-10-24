@@ -11,10 +11,10 @@ import {
   Input
 } from "reactstrap";
 
-export default class ModalForm extends Component {
+export default class AddForm extends Component {
   constructor(props) {
     super(props);
-    this.state = { modal: false, character: "", game: "" };
+    this.state = { modal: false, id: "", character: "", game: "" };
     this.handleSubmit = this.handleSubmit.bind(this);
     this.handleChange = this.handleChange.bind(this);
     this.toggle = this.toggle.bind(this);
@@ -26,7 +26,9 @@ export default class ModalForm extends Component {
 
   handleSubmit(ev) {
     ev.preventDefault();
-    this.props.handleToUpdate(this.state);
+    let newEntry = this.state;
+    newEntry.id = Date.now();
+    this.props.handleToUpdate(newEntry);
     this.setState({ character: "", game: "" });
     this.toggle();
   }
